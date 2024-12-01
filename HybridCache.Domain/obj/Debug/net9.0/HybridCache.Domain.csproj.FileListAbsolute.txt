@@ -1,0 +1,11 @@
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\bin\Debug\net9.0\HybridCache.Domain.deps.json
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\bin\Debug\net9.0\HybridCache.Domain.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\bin\Debug\net9.0\HybridCache.Domain.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\obj\Debug\net9.0\HybridCache.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\obj\Debug\net9.0\HybridCache.Domain.AssemblyInfoInputs.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\obj\Debug\net9.0\HybridCache.Domain.AssemblyInfo.cs
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\obj\Debug\net9.0\HybridCache.Domain.csproj.CoreCompileInputs.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\obj\Debug\net9.0\HybridCache.Domain.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\obj\Debug\net9.0\refint\HybridCache.Domain.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\obj\Debug\net9.0\HybridCache.Domain.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Domain\obj\Debug\net9.0\ref\HybridCache.Domain.dll

@@ -1,0 +1,15 @@
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\bin\Debug\net9.0\HybridCache.Application.deps.json
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\bin\Debug\net9.0\HybridCache.Application.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\bin\Debug\net9.0\HybridCache.Application.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\bin\Debug\net9.0\HybridCache.Domain.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\bin\Debug\net9.0\HybridCache.Domain.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\obj\Debug\net9.0\HybridCache.Application.csproj.AssemblyReference.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\obj\Debug\net9.0\HybridCache.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\obj\Debug\net9.0\HybridCache.Application.AssemblyInfoInputs.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\obj\Debug\net9.0\HybridCache.Application.AssemblyInfo.cs
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\obj\Debug\net9.0\HybridCache.Application.csproj.CoreCompileInputs.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\obj\Debug\net9.0\HybridCa.0EA2AC15.Up2Date
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\obj\Debug\net9.0\HybridCache.Application.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\obj\Debug\net9.0\refint\HybridCache.Application.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\obj\Debug\net9.0\HybridCache.Application.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Application\obj\Debug\net9.0\ref\HybridCache.Application.dll

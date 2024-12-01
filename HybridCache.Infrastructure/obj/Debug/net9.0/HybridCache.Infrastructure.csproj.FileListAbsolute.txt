@@ -1,0 +1,15 @@
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\bin\Debug\net9.0\HybridCache.Infrastructure.deps.json
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\bin\Debug\net9.0\HybridCache.Infrastructure.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\bin\Debug\net9.0\HybridCache.Infrastructure.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\obj\Debug\net9.0\HybridCache.Infrastructure.csproj.AssemblyReference.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\obj\Debug\net9.0\HybridCache.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\obj\Debug\net9.0\HybridCache.Infrastructure.AssemblyInfoInputs.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\obj\Debug\net9.0\HybridCache.Infrastructure.AssemblyInfo.cs
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\obj\Debug\net9.0\HybridCache.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\obj\Debug\net9.0\HybridCache.Infrastructure.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\obj\Debug\net9.0\refint\HybridCache.Infrastructure.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\obj\Debug\net9.0\HybridCache.Infrastructure.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\obj\Debug\net9.0\ref\HybridCache.Infrastructure.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\bin\Debug\net9.0\HybridCache.Domain.dll
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\bin\Debug\net9.0\HybridCache.Domain.pdb
+D:\Documents_Downloads_Desktop\YoutubeProjects\HybridCache\Project\HybridCacheSampleProject\HybridCache.Infrastructure\obj\Debug\net9.0\HybridCa.830C47BB.Up2Date
